@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Witaj na moim blogu o Machine Learningu"
+date: 2025-12-07 12:00:00 +0100
+categories: [Machine Learning]
+tags: [ml, ai, python, projekty, nauka]
+---
+
+To jest pierwszy wpis na moim blogu o **uczeniu maszynowym, AI i programowaniu**.
+
+W najbliższych tygodniach planuję opisać m.in.:
+
+- mój projekt credit scoringu (klasyfikacja wieloklasowa, F1-macro, XGBoost / CatBoost / Random Forest),
+- jak budować własne transformatory w scikit-learn i łączyć je w pipeline’y,
+- jak logować eksperymenty w MLflow i trzymać porządek w repozytorium na GitHubie,
+- podstawy XGBoost i dlaczego ten model jest tak silny w praktyce.
+
+Każdy wpis będzie miał:
+- sekcję z kodem w Pythonie,
+- krótkie wyjaśnienie intuicji stojącej za algorytmem,
+- praktyczne wnioski z projektu.
+
+Jeśli interesuje Cię wejście w świat ML od strony **prawdziwego kodu i projektów**, a nie tylko teorii – jesteś w dobrym miejscu.
