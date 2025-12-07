@@ -1,5 +1,21 @@
-title: "Mój blog o ML"
-description: "Machine Learning | AI | Programming"
+title: "Jakub Krzak – Machine Learning Blog"
+tagline: "ML, AI, Data Science & Programowanie"
+description: "Blog o uczeniu maszynowym, sztucznej inteligencji, inżynierii ML i programowaniu w Pythonie."
 url: "https://jakubkrzak.github.io"
 
+lang: "pl"
+timezone: "Europe/Warsaw"
+
 theme: jekyll-theme-chirpy
+
+author:
+  name: "Jakub Krzak"
+  bio: "ML engineer. Piszę o praktycznych projektach ML, MLOps i programowaniu."
+  avatar: "/assets/img/avatar.png"  # możesz usunąć, jeśli nie masz avatara
+  email: "twoj_mail@example.com"    # opcjonalnie
+
+paginate: 10
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
