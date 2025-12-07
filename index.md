@@ -1,8 +1,14 @@
 ---
 layout: home
-title: "Mój blog o ML"
+title: "Blog o Machine Learningu"
+subtitle: "Od pierwszych modeli do produkcyjnych systemów AI"
 ---
 
-# Witam na mojej stronie!
+Witaj na moim blogu o uczeniu maszynowym, sztucznej inteligencji i programowaniu.
 
-Tu będzie mój blog o Machine Learning, AI i programowaniu.
+Znajdziesz tu:
+- praktyczne projekty z XGBoost, Random Forest, sieciami neuronowymi i MLOps,
+- notatki z nauki algorytmów, statystyki oraz inżynierii danych,
+- porady dotyczące pisania czystego kodu w Pythonie i budowania pipeline’ów ML.
+
+Ten blog traktuję jak **publiczny dziennik nauki** – wszystko, czego się uczę na projektach, opisuję tutaj w możliwie konkretny, inżynierski sposób.
